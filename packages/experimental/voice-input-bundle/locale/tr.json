@@ -1,7 +1,0 @@
-{
-  "meta": {
-    "title": "Sesli giriş",
-    "description": "Kayıtları SenseVoice ile yerel olarak metne dönüştürür; ilk kullanım bağımlılık kurmayı gerektirir.",
-    "detail": "docs/DETAIL.md"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "meta": {
-    "title": "Bilgisayar kullanımı",
-    "description": "Şimdilik yalnızca macOS destekleniyor; Windows desteği geliştiriliyor. Mevcut ve yeni PTC oturumlarına Bilgisayar Kullanımı yükler. Kullanmak için PTC moduna geçin ve Erişilebilirlik ile Ekran Kaydı izinlerini verin.",
-    "detail": "docs/DETAIL.md"
-  }
-}

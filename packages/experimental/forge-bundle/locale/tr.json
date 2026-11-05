@@ -1,7 +1,0 @@
-{
-  "meta": {
-    "title": "Değişiklik istekleri ve çalışma ağaçları",
-    "description": "Bağlı GitHub PR'larını sohbetinizin yanında takip edin: kontrolleri ve incelemeleri izleyin, farkları inceleyin, geri bildirimi ajana gönderin. Yerel değişiklikleri gözden geçirin ve her görevi ayırmak için bağımsız çalışma ağacı kullanın. GitHub özellikleri sunucuda kurulu ve oturum açmış gh CLI gerektirir.",
-    "detail": "docs/DETAIL.md"
-  }
-}

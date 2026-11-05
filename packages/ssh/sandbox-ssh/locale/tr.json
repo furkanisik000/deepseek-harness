@@ -1,6 +1,0 @@
-{
-  "meta": {
-    "title": "SSH işlem kum havuzu",
-    "description": "Paylaşılan SSH yardımcısı üzerinden uzak POSIX süreçleri için kum havuzu komutları kurar."
-  }
-}

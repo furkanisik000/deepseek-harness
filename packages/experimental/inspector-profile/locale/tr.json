@@ -1,7 +1,0 @@
-{
-  "meta": {
-    "title": "Geliştirici araçları",
-    "description": "Sorun giderme için: Oturum günlüğünde DSH'nin oturum için kaydettiklerini görün, İstatistikler sekmesinde tur ve adım istatistiklerini inceleyin ve DSH arka ucunu Chrome DevTools'ta hata ayıklayın.",
-    "detail": "docs/DETAIL.md"
-  }
-}

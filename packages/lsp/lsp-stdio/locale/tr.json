@@ -1,6 +1,0 @@
-{
-  "meta": {
-    "title": "Stdio dil sunucusu sağlayıcısı",
-    "description": "Alt işlemler ve JSON-RPC ile dil sunucularına bağlanır, gerektiğinde dosyalar açar ve kod sorguları çalıştırır."
-  }
-}

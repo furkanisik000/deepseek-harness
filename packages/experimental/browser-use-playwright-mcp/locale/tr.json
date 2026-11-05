@@ -1,6 +1,0 @@
-{
-  "meta": {
-    "title": "Tarayıcı kullanımı (Playwright)",
-    "description": "Modelin başlatılmış Chromium içinde Playwright MCP ile web sayfalarında gezinmesine ve işlem yapmasına olanak tanır."
-  }
-}

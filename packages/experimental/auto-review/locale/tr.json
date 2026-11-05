@@ -1,7 +1,0 @@
-{
-  "meta": {
-    "title": "Otomatik yetkilendirme incelemesi",
-    "description": "Otomatik inceleme erişim modu ekler: her araç çağrısından önce bir model onu sizden istenenle karşılaştırır, izin verilenleri hemen çalıştırır, reddedilenleri onayınız için bekletir.",
-    "detail": "docs/DETAIL.md"
-  }
-}

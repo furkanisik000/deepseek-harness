@@ -1,7 +1,0 @@
-{
-  "meta": {
-    "title": "Kişiselleştirilmiş öneriler",
-    "description": "Yanıtın altında DSH'den beklentilerinize göre öneri kartları gösterir: saklanabilir bir sayfa ya da küçük araç istediğinizde Oluştur'a tıklayınca arka planda kurulan yeni kişiselleştirilmiş sayfa önerir; uygulamada bir işin nasıl yapıldığını sorduğunuzda ya da bir yetenek eksik dediğinizde onu sağlayan yerleşik eklentiyi önerir, Etkinleştir ile açılır.",
-    "detail": "docs/DETAIL.md"
-  }
-}

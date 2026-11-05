@@ -1,6 +1,0 @@
-{
-  "meta": {
-    "title": "Uzak erişim kontrolü",
-    "description": "Sahip olmayan bağlantıların hangi yöntemlere erişebileceğini denetler ve her bağlantı için izin anlık görüntülerini saklar."
-  }
-}
