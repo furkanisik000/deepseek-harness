@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "GitHub webhook'ları",
+    "description": "İmzalı GitHub HTTP webhook'larını doğrular ve Webhook servisine iletir."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Statik ön uç sunucusu",
+    "description": "Web uygulamasının giriş sayfasını ve statik dosyalarını sunar, dizin dışı yolları reddeder ve eksik kaynaklarda 404 döndürür."
+  }
+}

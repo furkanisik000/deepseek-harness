@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "SDK profili",
+    "description": "dsh-base üzerinde standart girdi/çıktı üzerinden JSON-RPC sağlar ve işlem yaşam döngüsünü yönetir."
+  }
+}

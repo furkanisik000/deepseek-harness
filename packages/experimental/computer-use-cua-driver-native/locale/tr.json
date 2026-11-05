@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Bilgisayar kullanımı (Cua Driver)",
+    "description": "Modelin masaüstünü paketlenmiş Cua Driver çalışma zamanıyla kontrol etmesini sağlar; dsh'yi başlatan uygulamaya masaüstü izinleri gerekir."
+  }
+}

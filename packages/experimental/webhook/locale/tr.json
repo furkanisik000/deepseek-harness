@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Webhook çalışma zamanı",
+    "description": "Webhook kurallarıyla bir çalışma alanında Harness oturumları oluşturur ve tamamlanmasını beklemez."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Başsız profil",
+    "description": "dsh-base üzerinde Host, HTTP veya tarayıcı katmanı olmadan tek bir görevi çekirdek Agent/Session çalıştırıcısıyla doğrudan yürütür."
+  }
+}

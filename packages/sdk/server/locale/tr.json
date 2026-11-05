@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "SDK sunucusu",
+    "description": "Standart girdi/çıktı üzerinden JSON-RPC ile ayrı süreçlerdeki SDK istemcilerine hizmet verir."
+  }
+}
