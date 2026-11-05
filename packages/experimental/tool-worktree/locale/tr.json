@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Git çalışma ağaçları",
+    "description": "Yeni bir dalda çalışma isteyin; ajan ayrı bir Git çalışma ağacı oluşturur ve orada devam eder, mevcut çıkışınız olduğu gibi kalır.",
+    "detail": "docs/DETAIL.md"
+  }
+}

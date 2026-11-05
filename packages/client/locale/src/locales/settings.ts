@@ -42,3 +42,8 @@ export const ru = {
 export const pt = {
   'language.title': 'Idioma',
 } satisfies Record<keyof typeof en, string>
+
+/** Turkish dictionary, checked against the English keys. */
+export const tr = {
+  'language.title': 'Dil',
+} satisfies Record<keyof typeof en, string>

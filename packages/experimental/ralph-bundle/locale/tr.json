@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Ralph döngüleri",
+    "description": "Bir hedef için Ralph döngüsü isteyin; hedefe ulaşılana, bir engel bildirilene veya tur sınırına varılana kadar ajan her turda yeni bir ajan başlatır.",
+    "detail": "docs/DETAIL.md"
+  }
+}

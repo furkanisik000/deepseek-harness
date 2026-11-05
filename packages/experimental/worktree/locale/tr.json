@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Çalışma ağacı hizmeti",
+    "description": "Adlandırılmış Git çalışma ağaçları oluşturur ve geçerli oturumun çalışma dizinini değiştirir."
+  }
+}

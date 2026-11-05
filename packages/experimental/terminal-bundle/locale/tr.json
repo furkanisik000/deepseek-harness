@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Kalıcı terminaller",
+    "description": "Ajana, süreçleri araç çağrıları arasında arka planda çalışmaya devam eden terminaller verir; böylece geliştirme sunucusu ya da REPL başlatıp sonra çıktıyı okuyabilir veya girmeye devam edebilir.",
+    "detail": "docs/DETAIL.md"
+  }
+}

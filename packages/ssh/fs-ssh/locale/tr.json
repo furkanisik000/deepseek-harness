@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "SSH dosya sistemi",
+    "description": "Paylaşılan POSIX SSH yardımcısı üzerinden uzak dosyalara erişir."
+  }
+}

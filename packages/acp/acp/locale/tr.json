@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "ACP sunucusu",
+    "description": "Ajanları otomasyon için standart girdi/çıktı üzerinden JSON-RPC ile çalıştırır."
+  }
+}

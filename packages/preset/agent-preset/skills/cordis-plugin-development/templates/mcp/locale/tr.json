@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Demo MCP bağlantısı",
+    "description": "Uzak bir MCP sunucusuna bağlanarak araçlarını ajan için kullanılabilir kılar."
+  }
+}
